@@ -28,10 +28,6 @@ I enjoy turning ideas into practical projects and learning by building.
 - 💻 ICDL
 - 🔀 Git & GitHub
 
-## 🚀 Featured Project
-
-### Lifestyle Risk Classification
-A machine learning project for multiclass lifestyle risk classification using Python and scikit-learn.
 
 ## 🌱 Currently Learning
 
@@ -45,5 +41,7 @@ A machine learning project for multiclass lifestyle risk classification using Py
 - LinkedIn: [Dorsa Saeekia](https://www.linkedin.com/in/dorsa-saeekia-5619423b0)
 
 ---
-
+##Motto
+Let's not lose a game we never played. 🎮
+---
 > Learn. Build. Create. 🚀
