@@ -40,8 +40,7 @@ I enjoy turning ideas into practical projects and learning by building.
 
 - LinkedIn: [Dorsa Saeekia](https://www.linkedin.com/in/dorsa-saeekia-5619423b0)
 
----
 ## Motto
--Let's not lose a game we never played. 🎮
+- Let's not lose a game we never played. 🎮
 ---
 > Learn. Build. Create. 🚀
