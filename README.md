@@ -42,6 +42,6 @@ I enjoy turning ideas into practical projects and learning by building.
 
 ---
 ## Motto
-Let's not lose a game we never played. 🎮
+-Let's not lose a game we never played. 🎮
 ---
 > Learn. Build. Create. 🚀
